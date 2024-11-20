@@ -1,13 +1,11 @@
 # ¡Hola! Soy **Fabián Casas** 👋
 
-
 ## 🚀 **Sobre mí**
 
 - 🎓 **Estudiante de Analista Programador Computacional** en **Duoc UC** con formación en desarrollo frontend y backend.
 - 💡 Apasionado por el **desarrollo web** y las **aplicaciones móviles**, con experiencia en crear soluciones útiles y eficientes para los usuarios.
 - 🌍 Actualmente, trabajo con tecnologías como **JavaScript**, **Angular**, **Ionic**, **Firebase**, **Google Maps API**, **Django**, **MySQL** y **SQL**.
 - 📈 Siempre en búsqueda de aprender y mejorar mis habilidades para contribuir al desarrollo de proyectos innovadores.
-
 
 ## 🛠️ **Tecnologías que manejo**
 
@@ -16,14 +14,6 @@
 - **Bases de datos**: Firebase, MySQL, SQL
 - **Herramientas y plataformas**: Git, GitHub, Visual Studio Code, Firebase, Google Maps API
 - **Metodologías**: Scrum
-
-
-## 🎓 **Educación**
-
-**Instituto Profesional Duoc UC**  
-**Analista Programador Computacional**  
-**Santiago, Chile** – Marzo 2022
-
 
 ## 🏆 **Certificaciones**
 
