@@ -19,6 +19,7 @@
 
 - **Scrum Foundation Professional Certification (SFPC)** – CertiProf
 - **Software Testing Fundamentals Certification (ASTFC)** – Certificación en pruebas de software
+- **Ingles intermedio** - TOEIC BRIDGE
 
 ## 📣 **¡Conectemos!**
 
