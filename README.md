@@ -25,7 +25,7 @@
 
 - 📧 **Email**: [fa.casas@duocuc.cl](mailto:fa.casas@duocuc.cl)
 - 🌐 **Portfolio**: [https://vntoniojr.netlify.app](https://vntoniojr.netlify.app)
-- 🔗 **LinkedIn**: [linkedin.com/in/fabian-casas-266691324](https://www.linkedin.com/in/fabian-casas-266691324)
+- 🔗 **LinkedIn**: [linkedin.com/in/fabian-casas-266691324](www.linkedin.com/in/fabian-casas-266691324)
 - 📱 **Teléfono**: +56 9 2705 4178
 
 ---
