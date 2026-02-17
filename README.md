@@ -43,14 +43,6 @@ Soy **Analista Programador Computacional** titulado de **Duoc UC**. Me especiali
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical" alt="Estadísticas de Fabián" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Lenguajes más usados" width="41%" />
-</p>
-
----
-
 ## 📣 ¡Conectemos!
 
 <p align="left">
